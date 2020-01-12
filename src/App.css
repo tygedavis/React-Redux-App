@@ -42,4 +42,19 @@ button{
 
 .kanye{
   border-radius: 10px;
+  margin-left: -3%;
+}
+
+.favorite{
+  cursor: pointer;
+}
+
+.favorite:hover{
+  text-decoration: underline;
+}
+
+.quotes{
+  list-style: none;
+  width: 100%;
+  margin: 5px auto;
 }
